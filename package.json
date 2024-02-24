@@ -1,0 +1,14 @@
+{
+  "name": "discord.js-v14-base",
+  "version": "1.0.0",
+  "description": "Discord.js v14 bot base using classes",
+  "main": "index.js",
+  "author": "mxnight",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
